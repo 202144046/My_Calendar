@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile --icon=icon.ico --collect-all holidays my_calendar.py
